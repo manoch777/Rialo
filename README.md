@@ -198,7 +198,6 @@ But the underlying idea is worth watching:
 **The future of onchain finance may depend less on isolating blockchains from the real world, and more on giving them secure, verifiable, and efficient ways to interact with it.**
 
 ---
-
 ### References
 
 * Rialo Developer Portal: architecture and native infrastructure overview
