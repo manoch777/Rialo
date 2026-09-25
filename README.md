@@ -1,10 +1,4 @@
-# Rialo: Bringing Real-World Data and Execution Onchain
-
-Blockchain infrastructure has become extremely good at moving assets and executing deterministic logic. The bigger challenge is connecting that logic to the world outside the blockchain.
-
-Real financial markets, APIs, identity systems, payments, market data, and other real-world information exist outside traditional blockchain execution environments. Connecting these systems usually requires a collection of middleware components such as oracles, indexers, automation networks, bridges, and external services.
-
-Rialo takes a different approach.
+2
 
 Instead of treating these capabilities as separate layers that developers have to assemble themselves, Rialo is designed around native infrastructure for interacting with real-world data and applications.
 
