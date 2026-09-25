@@ -1,4 +1,4 @@
-2
+
 
 Instead of treating these capabilities as separate layers that developers have to assemble themselves, Rialo is designed around native infrastructure for interacting with real-world data and applications.
 
