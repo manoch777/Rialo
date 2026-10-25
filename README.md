@@ -198,4 +198,8 @@ But the underlying idea is worth watching:
 * Rialo: Upgrading the Consumer Lending Stack
 * Rialo Foundations II: Supermodularity and Blockchain Integration
 
+12
+3
+
+
 Built around the idea that better blockchain infrastructure should make real-world applications easier to build, not simply make blockchains faster.
